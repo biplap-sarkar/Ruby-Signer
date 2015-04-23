@@ -62,3 +62,4 @@ module Biplap
 			return qsa.join("&")
 		end
 	end
+end
